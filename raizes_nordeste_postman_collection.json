@@ -1,0 +1,20 @@
+{
+  "info": {
+    "name": "Raízes do Nordeste - Testes Omnichannel API",
+    "schema": "https://getpostman.com"
+  },
+  "item": [
+    {
+      "name": "CT001 - Checkout App Mobile com Sucesso",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"id_cliente\": 4753868,\n  \"id_unidade\": \"REC_01\",\n  \"canal\": \"APP_MOBILE\",\n  \"valor_total\": 45.90\n}"
+        },
+        "url": { "raw": "https://raizesdonordeste.com.br" }
+      }
+    }
+  ]
+}
