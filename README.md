@@ -1,5 +1,4 @@
-
-Plano de Engenharia de Qualidade - Rede Raízes do Nordeste
+Projeto de Engenharia de Qualidade - Rede Raízes do Nordeste
 
 Este repositório armazena as evidências práticas e os artefatos de validação desenvolvidos para o ecossistema integrado da rede de lanchonetes **Raízes do Nordeste**, atendendo aos critérios da Trilha de Qualidade de Software do Projeto Multidisciplinar.
 
@@ -29,4 +28,3 @@ Como Executar os Testes
 3. Execute o JMeter via terminal e abra o script para visualizar o Grupo de Usuários configurado para alta carga.
 
 *Nota: Este repositório cumpre as diretrizes administrativas de integridade e comprovação de autoria exigidas no AVA-Univirtus.*
-
